@@ -17,7 +17,7 @@ youtuber **Zoink** to every thumbnail.
 
 - This extension should be compatible with any Firefox / Chromium based browser.
 - This extension was inspired by **[MagicJinn][UI Youtube]** and his **[Extension][UI Website]**.
-- This extension is unofficial and not affiliated with MrBeast or YouTube.
+- This extension is unofficial and not affiliated with Zoink or YouTube.
 
 ## Making your own
 
