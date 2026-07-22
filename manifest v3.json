@@ -15,7 +15,7 @@
     "host_permissions": ["*://*.youtube.com/*"],
     "content_scripts": [{
         "matches": ["*://*.youtube.com/*"],
-        "js": ["Zoinkify.js"],
+        "js": ["mrbeastify.js"],
         "run_at": "document_idle"
     }],
     "web_accessible_resources": [{
