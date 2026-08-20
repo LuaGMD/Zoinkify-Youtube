@@ -37,7 +37,9 @@ Want to customize this extension with a different YouTuber or personality? Here'
 6. **Build the extension**: If you have 7-Zip installed, run `build.bat` to build the extension. This will create a zip file in the root directory of the repository. (The 7-Zip dependency is unfortunately required because Windows' built in Compress-Archive feature is completely busted for some reason). If packing manually, only include `images/`, `manifest.json`, `icon.png`, `settings.html`, `settings.js` and `mrbeastify.js`. When packing for Chrome, use the `manifest v3.json` file, but rename it to `manifest.json`.
 7. **Upload to extension stores**: You can upload your customized version to Chrome Web Store, Firefox Add-ons, etc.
 
+## Microsoft Edge <a id="microsoftedge"></a>
 
+Microsoft Edge support has been ended, and the extension has been delisted. This is because Edge is consistently the slowest at reviewing extensions, constantly rejects my submissions with vague reasons why, and are all-round terrible. Download the Chrome version instead.
 
 [UI YouTube]: https://www.youtube.com/@magicjinn
 [UI Website]: https://chromewebstore.google.com/detail/youtube-mrbeastify/dbmaeobgdodeimjdjnkipbfhgeldnmeb
